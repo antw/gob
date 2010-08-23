@@ -28,7 +28,7 @@ require 'rubygems'
 require 'bundler'
 
 Bundler.setup
-Bundler.require(:default, :test)#Gob.env)
+Bundler.require(:default, Gob.env)
 
 # === Application Sources ====================================================
 
