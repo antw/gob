@@ -34,4 +34,3 @@ Bundler.require(:default, Gob.env)
 
 require 'rack/gob_dispatcher'
 require 'gob/apps'
-

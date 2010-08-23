@@ -7,4 +7,3 @@ module Gob::Apps::API
     before { content_type 'application/json' }
   end
 end
-

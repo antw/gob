@@ -26,4 +26,3 @@ end
 World do
   GobWorld.new
 end
-

@@ -12,4 +12,3 @@ rescue LoadError
           "gem install cucumber"
   end
 end
-

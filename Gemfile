@@ -13,4 +13,3 @@ group(:test) do
   gem 'webrat',    '~> 0.7.1'
   gem 'nokogiri',  '~> 1.4'
 end
-

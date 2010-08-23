@@ -16,4 +16,3 @@ to itself. Also, it might do something useful eventually.
 > Michael: Just a minute mom.<br>
 > Michael: _[to Gob]_ Get rid of the Seaward.<br>
 > Lucille: I'll leave when I'm good and ready.
-

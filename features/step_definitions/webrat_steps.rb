@@ -59,4 +59,3 @@ end
 Then %r{^I should receive JSON$} do
   webrat.response.content_type.should == 'application/json'
 end
-

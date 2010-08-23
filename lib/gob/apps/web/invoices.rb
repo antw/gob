@@ -15,4 +15,3 @@ module Gob::Apps::Web
 
   end # Invoices
 end # Gob::Apps::Web
-

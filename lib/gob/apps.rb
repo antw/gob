@@ -36,4 +36,3 @@ require 'gob/apps/api/clients'
 
 require 'gob/apps/web/base'
 require 'gob/apps/web/invoices'
-

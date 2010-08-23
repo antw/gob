@@ -17,4 +17,3 @@ module Gob::Apps::API
 
   end # Clients
 end # Gob::Apps::API
-

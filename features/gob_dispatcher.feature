@@ -34,4 +34,3 @@ Feature: Determining which type of content to return
     Given I accept nothing
     When I go to "/invoices/4c6c0cf7b284e32154000084"
     Then the request should fail
-

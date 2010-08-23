@@ -32,4 +32,3 @@ module Rack
 
   end # GobDispatcher
 end # Rack
-

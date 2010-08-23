@@ -20,4 +20,3 @@ Feature: The JSON API
       { "ref": "http://localhost:9292/clients/4c6c3bbbb284e3b847000014",
         "name": "Gob Bluth" }
       """
-

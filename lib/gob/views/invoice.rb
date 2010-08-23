@@ -17,4 +17,3 @@ module Gob::Views
     end
   end # Invoice
 end # Gob::Views
-

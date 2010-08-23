@@ -20,4 +20,3 @@ module Gob::Apps::API
 
   end # Invoices
 end # Gob::Apps::API
-
