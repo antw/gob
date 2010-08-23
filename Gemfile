@@ -7,7 +7,6 @@ gem 'mustache',    '~> 0.11.2', :require => 'mustache/sinatra'
 gem 'rack-test',   '~> 0.5.4',  :require => 'rack/test'
 
 group(:test) do
-  gem 'rake'
   gem 'rspec',     '>= 2.0.0.beta.19'
   gem 'cucumber',  '~> 0.8.5'
   gem 'webrat',    '~> 0.7.1'
